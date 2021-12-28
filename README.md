@@ -6,10 +6,10 @@ composer require sofiakb/php-mail
 
 Then, in your .env file
 ```
-MAIL_USER=
-MAIL_PASSWORD=
 MAIL_HOST=
 MAIL_PORT=
+MAIL_USER=
+MAIL_PASSWORD=
 MAIL_ENCRYPTION=
 ```
 
