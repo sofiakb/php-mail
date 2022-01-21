@@ -12,7 +12,7 @@
 
 namespace Sofiakb\Mail;
 
-use Ssf\Support\Traits\ForwardsCalls;
+use Sofiakb\Support\Traits\ForwardsCalls;
 use Swift_Attachment;
 use Swift_Image;
 use Swift_Message;

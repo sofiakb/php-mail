@@ -12,7 +12,7 @@
 
 namespace Sofiakb\Mail;
 
-use Ssf\Support\Env;
+use Sofiakb\Support\Env;
 use Swift_SmtpTransport;
 
 class Transport

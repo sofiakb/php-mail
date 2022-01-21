@@ -13,7 +13,7 @@
 namespace Sofiakb\Mail;
 
 use Sofiakb\Mail\Exceptions\NullMessageException;
-use Ssf\Support\Traits\ForwardsCalls;
+use Sofiakb\Support\Traits\ForwardsCalls;
 use Swift_Mailer;
 use Throwable;
 

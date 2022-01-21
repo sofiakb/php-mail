@@ -5,7 +5,7 @@
     "license": "MIT",
     "require": {
         "php": "^7.4",
-        "sofiakb/php-support": "^0.0.8",
+        "sofiakb/php-support": "dev-main",
         "swiftmailer/swiftmailer": "^6.3"
     },
     "require-dev": {

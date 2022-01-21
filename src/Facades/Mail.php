@@ -14,7 +14,7 @@ namespace Sofiakb\Mail\Facades;
 
 use Sofiakb\Mail\Mailer;
 use Sofiakb\Mail\Message;
-use Ssf\Support\Env;
+use Sofiakb\Support\Env;
 
 /**
  * Class Mail
